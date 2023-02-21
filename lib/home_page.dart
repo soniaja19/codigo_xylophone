@@ -37,9 +37,9 @@ class HomePage extends StatelessWidget {
           buildKey(color: Colors.blue, number: 2),
           buildKey(color: Colors.greenAccent, number: 3),
           buildKey(color: Colors.red, number: 4),
-          buildKey(color: Colors.black, number: 5),
+          buildKey(color: Colors.orangeAccent, number: 5),
           buildKey(color: Colors.white, number: 6),
-          buildKey(color: Colors.red, number: 7),
+          buildKey(color: Colors.purple, number: 7),
           // Expanded(
           //   child: MaterialButton(
           //     color: Colors.red,
